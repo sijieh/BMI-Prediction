@@ -11,7 +11,7 @@ This project explores the feasibility of predicting Body Mass Index (BMI) from f
 
 ## 📦 Key Components
 
-- `eda & vgg.ipynb`: Exploratory data analysis and VGG-based feature extraction.
+- `eda & vgg.ipynb`: Exploratory data analysis and VGG-based model.
 - `insightface & svr.ipynb`: Uses InsightFace for face alignment and embeddings; applies Support Vector Regression (SVR) for BMI prediction.
 - `app.py`: Streamlit web app for uploading face images and displaying predicted BMI.
 
